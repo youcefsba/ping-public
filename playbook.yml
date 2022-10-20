@@ -5,3 +5,7 @@
   tasks:
     - name: ping
       ping:
+      
+    - name: just a simple text
+      debug:
+        msg: "C'est moi, je sais daire des passes!"
